@@ -2,7 +2,7 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Data Science, ay City University of HongKong, 
+He is currently pursuing a Master's Degree in Data Science, ay City University of HongKong.
 
 #### Email
 15104769915[at]163.com
