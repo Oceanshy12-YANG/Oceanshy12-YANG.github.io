@@ -1,9 +1,6 @@
-- First-prize Academic Scholarship, 2023.
+- Third-prize Scholarship, 2019.
 
-- Freshman Academic Scholarship, 2022.
+- Third-prize Scholarship, 2020.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+ 
